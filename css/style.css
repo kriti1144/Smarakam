@@ -1,0 +1,22 @@
+
+/******** COMMON UTITLITIES ********/
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.vcenter{
+    margin: 0;
+    position: relative;
+    top: 50%;
+    -ms-transform : translateY(-50%);
+    transform: translateY(-50%);
+}
+
+
+/************************************/
